@@ -1,0 +1,1 @@
+# tribedev-business-central.github.io
