@@ -4,7 +4,7 @@
     "appsettings.json"
   ],
   "debugBuild": false,
-  "entryAssembly": "TribeDev Business Central",
+  "entryAssembly": "TribeDev-Business-Central",
   "icuDataMode": 0,
   "linkerEnabled": true,
   "resources": {
@@ -39,9 +39,9 @@
       "Syncfusion.Licensing.dll": "sha256-zZuH9yoK1slqOi7wphCMYEyhGh2dOAPJTxVZ5yFbWJw=",
       "Syncfusion.PdfExport.Net.dll": "sha256-0tnwbS1yUJTPb22+1w7MhIlWaU456W9DhlJZoZLErB4=",
       "System.IO.Pipelines.dll": "sha256-o\/PdJLBGKSgIYSBLq6l+GUStgsQ7K0l+eLIHhkVU1o0=",
-      "TBC.ItemManager.dll": "sha256-Qm2jvVmDDy0eguX1gxOJXYaK6y1hOfHNqVgLoyTT4d8=",
-      "TBC.Shared.dll": "sha256-KIkC\/UB4xmLnw57SrS4yduVh6Iwp0j+78BV\/fKPYY\/o=",
-      "TribeDev Business Central.dll": "sha256-66ahqBkeuw8Zc+HO85rtLlYTTdFDc74zpp3LUuidbVE=",
+      "TBC.ItemManager.dll": "sha256-9wySGdGu2RRHepV2Sj1BxQeVy+6eMhJwefrOSVLnElY=",
+      "TBC.Shared.dll": "sha256-evJoNmB9VCk4zeOQ5MTAnm3KmcpW4FhUmBL1oGB2CZI=",
+      "TribeDev-Business-Central.dll": "sha256-Gokrbxmtrqy+5gA5KTXysWj6iz5V5WU1AfeGEuSdewE=",
       "Microsoft.CSharp.dll": "sha256-7AgIpi794HSqv1twuhBQ8YX7FCwcQByOJSqJu0xS9aQ=",
       "System.Collections.Concurrent.dll": "sha256-0flUHhZkoxW4VN95h+dzmpFmQfCHnYfz9p7PksP1upU=",
       "System.Collections.Immutable.dll": "sha256-iiHNhj13jeymwGqYWQ3IHr3v71XtoWMBaSOyyxZU1e0=",
