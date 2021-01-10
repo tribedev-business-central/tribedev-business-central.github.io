@@ -825,15 +825,15 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-\/fGuj6AKOoYbNUtGaHbUUjsgrobIb7NIvkOJjIX\/AeM=",
+      "hash": "sha256-pc8CX0TlCfG0ftDfffkAd4TX+1EB61SPONS7NTofRDA=",
       "url": "_framework\/TBC.ItemManager.dll"
     },
     {
-      "hash": "sha256-b9qGt4UgopQKF1fMA4yjFiS\/aSXRviF4VNPiOeCxoD0=",
+      "hash": "sha256-ktbkStWAITeTKgzXA4j+O9XUKyDt2n2CmCukDHTG2Pg=",
       "url": "_framework\/TBC.Shared.dll"
     },
     {
-      "hash": "sha256-Ledu64SbOz8X6nn\/FjAMlRweX25dzkWYgomelR\/KaQk=",
+      "hash": "sha256-5wV13tf2roZBngmsNK41EmQ5mMO7UVzv\/sb9SP2JzYE=",
       "url": "_framework\/TribeDev-Business-Central.dll"
     },
     {
@@ -1013,7 +1013,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-edviIe4Ug9fKRlXMznLl9NY0bWplvzSDgpIeV\/fjTkI=",
+      "hash": "sha256-Rbv6G31kLGbjZE8BtVp+ssR\/qiGeX3WqM08AXX2ryLY=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1021,5 +1021,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "7H7pBtPM"
+  "version": "P2MImWhp"
 };
