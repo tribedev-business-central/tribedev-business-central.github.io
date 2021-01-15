@@ -733,7 +733,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
-      "hash": "sha256-OcNxr27VRep6vZE4sNsp56o8rE7VL4cQ8PWRQVaqDxE=",
+      "hash": "sha256-oNqnyqd0X3p3fe9PO6s19d3wRgSCSNPZkxZ\/a0vhneg=",
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
@@ -801,7 +801,7 @@
       "url": "_framework\/Microsoft.JSInterop.dll"
     },
     {
-      "hash": "sha256-HPiYjzuItf0u8j\/1JyLX28frakdbKfRPChJZA1FEJjE=",
+      "hash": "sha256-LkNprID5vhUSogSnLuIsAzYQL4dtKGSGQSGrlWJ+Kos=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
@@ -841,7 +841,7 @@
       "url": "_framework\/TBC.Shared.dll"
     },
     {
-      "hash": "sha256-04ZaiB9fMj2eQs+k4OHxecXYYqVFashTQXqe71Yf5Cw=",
+      "hash": "sha256-gItpH9aq03hgFkc\/+fMEvSo6cJsWmoEQ0SslvRmJQL0=",
       "url": "_framework\/TribeDev-Business-Central.dll"
     },
     {
@@ -1017,7 +1017,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-\/TK6WHwW7zTZzip\/c3PisKHEEdwMOVl7rCWSBbMHAdY=",
+      "hash": "sha256-cpzi0mD1P9crE38njt63ryL1\/D+\/orGK5UT5wFchNSs=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1025,5 +1025,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "oMudzyKF"
+  "version": "TZ9UKHV8"
 };
