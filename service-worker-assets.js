@@ -69,8 +69,20 @@
       "url": "images\/logo.png"
     },
     {
-      "hash": "sha256-36+4ooDuGni5+kqGomphzkDo11XEuEhbrpyiNJbFeSU=",
+      "hash": "sha256-p2oJgjjIVJrIFRTcqAL1GSskNUHUM4xfENmn7g3en+w=",
       "url": "index.html"
+    },
+    {
+      "hash": "sha256-eZNgBgutLI47rKzpfUji\/dD9t6LRs2gI3YqXKdoDOmo=",
+      "url": "js\/bootstrap-toggle.min.js"
+    },
+    {
+      "hash": "sha256-fTuUgtT7O2rqoImwjrhDgbXTKUwyxxujIMRIK7TbuNU=",
+      "url": "js\/popper.min.js"
+    },
+    {
+      "hash": "sha256-dRObvd6GLe\/AwDzgxr9KDxLlsCmIdCbQC7Q+\/ZlrFWo=",
+      "url": "js\/tbc.js"
     },
     {
       "hash": "sha256-zbLd3QiteJqUAp62PKzNWNWxrdzmHBGxjxvrD1X86T0=",
@@ -697,6 +709,14 @@
       "url": "_content\/Microsoft.Authentication.WebAssembly.Msal\/AuthenticationService.js"
     },
     {
+      "hash": "sha256-GqiEX9BuR1rv5zPU5Vs2qS\/NSHl1BJyBcjQYJ6ycwD4=",
+      "url": "_content\/BlazorAnimate\/aos.css"
+    },
+    {
+      "hash": "sha256-DybIYDc6jH0DSjC296BHo1mWVjUSHWjUunUOd3BTP+4=",
+      "url": "_content\/BlazorAnimate\/blazorAnimateInterop.js"
+    },
+    {
       "hash": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4\/sNPbaRUspOLefkCY=",
       "url": "_content\/TBC.ItemManager\/background.png"
     },
@@ -707,6 +727,10 @@
     {
       "hash": "sha256-STAC9t1Ed+XY5d7XHkkWb+bPpOyolcvofqGG3\/xRAs0=",
       "url": "_content\/TBC.ItemManager\/TBC.ItemManager.bundle.scp.css"
+    },
+    {
+      "hash": "sha256-udePU3dIbDiwMFaRy21mVsMNqp8JTQpNxUfirOPnsag=",
+      "url": "_framework\/BlazorAnimate.dll"
     },
     {
       "hash": "sha256-+\/IJo9wLK9sTvL8ee9W9w8S1Gkj8rsf\/6yob0uUFAaM=",
@@ -781,7 +805,7 @@
       "url": "_framework\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
-      "hash": "sha256-c40jGzk6WhcRh7Ay6HH4B25Apva3p6O++FKNWsG91OY=",
+      "hash": "sha256-nhdYvwPT12RJVKu4mEbeFuxbkTziIjLeN2D1nuSujCE=",
       "url": "_framework\/Microsoft.Extensions.Options.dll"
     },
     {
@@ -841,7 +865,7 @@
       "url": "_framework\/TBC.Shared.dll"
     },
     {
-      "hash": "sha256-+yfw1maQBy7lBIwEq1IHGzvqXyEKCBrKg5sMWd8ffjI=",
+      "hash": "sha256-m5DLqfm40QTs3F19mUYOb4zB6N4nvT+fWDjn1tgvhBk=",
       "url": "_framework\/TribeDev-Business-Central.dll"
     },
     {
@@ -1017,7 +1041,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-b2\/B+p7sAKimjuSgATSPZk49cB2V87VBkOGLtCI5+Pw=",
+      "hash": "sha256-6GKmy9l7JCF7SlSfUwc3t0GA\/8+84kxCAF1JCJ1tnF8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1025,5 +1049,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "TDdIpciI"
+  "version": "HZJcKc0I"
 };

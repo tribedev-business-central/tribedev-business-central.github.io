@@ -9,6 +9,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
+      "BlazorAnimate.dll": "sha256-udePU3dIbDiwMFaRy21mVsMNqp8JTQpNxUfirOPnsag=",
       "Blazored.LocalStorage.dll": "sha256-+\/IJo9wLK9sTvL8ee9W9w8S1Gkj8rsf\/6yob0uUFAaM=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-VqnnPpOv2JRdh5570ggZYS+r1cCmPWU9+f\/F5DyID\/4=",
       "Microsoft.AspNetCore.Components.dll": "sha256-W8cyAoeNO\/46ywuVDAYM12ewaK3YfKSumJR\/t0YqoXk=",
@@ -27,7 +28,7 @@
       "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-AyMGO0D1iZbt3JY37F80c\/7zuGeM+YI+VcEkSDnNZgs=",
       "Microsoft.Extensions.Logging.dll": "sha256-AKuEKrmP\/oMsJsQuclJ2O40vAczzNr0JnG1SUCDppws=",
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-7okV39xrj7TGmIeXj7KtDwEvPHTm3R8iXaRrcypK7HI=",
-      "Microsoft.Extensions.Options.dll": "sha256-c40jGzk6WhcRh7Ay6HH4B25Apva3p6O++FKNWsG91OY=",
+      "Microsoft.Extensions.Options.dll": "sha256-nhdYvwPT12RJVKu4mEbeFuxbkTziIjLeN2D1nuSujCE=",
       "Microsoft.Extensions.Primitives.dll": "sha256-hct+p9L33jifSMRIcnABF\/pDPQK4jIyYHXILYE4468o=",
       "Microsoft.Graph.dll": "sha256-fndyArK3TEj1zmxbNylJZJRn4WrQy+kWUf5Hn8B1zA0=",
       "Microsoft.Graph.Core.dll": "sha256-fLIic6t23e442lQlWonuHM3jd04DwGWVs+OO9xkWmS4=",
@@ -42,7 +43,7 @@
       "TBC.Components.Shared.dll": "sha256-W7c4mqrYvbfMhWJHqy+tm078XshbyinflTugKB3TrRU=",
       "TBC.ItemManager.dll": "sha256-zfqxVEcrS75PRCJBnbpgWyo8zgPhmIHFO6A\/Kiztr5s=",
       "TBC.Shared.dll": "sha256-SJqUSy3aZiWmhHmNC1P2hy9NRx5HiVdrefb0cFxb97Y=",
-      "TribeDev-Business-Central.dll": "sha256-+yfw1maQBy7lBIwEq1IHGzvqXyEKCBrKg5sMWd8ffjI=",
+      "TribeDev-Business-Central.dll": "sha256-m5DLqfm40QTs3F19mUYOb4zB6N4nvT+fWDjn1tgvhBk=",
       "Microsoft.CSharp.dll": "sha256-+lAJbkEY+psOn1XufZM1HiA7GAALVPRvpSInNNFaRS8=",
       "System.Collections.Concurrent.dll": "sha256-dIIUU5COw85Lcrgh00vOll2143dhHtdsBbEFDFIHdsA=",
       "System.Collections.Immutable.dll": "sha256-F3gAWro+eum8Car70P24VyHuXw9sFAeUXqzwKYD8pAc=",
