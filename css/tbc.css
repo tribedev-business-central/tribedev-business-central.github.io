@@ -1,0 +1,80 @@
+﻿:root {
+    --white: #FFFFFF;
+    --darkgray: #666666;
+    --lightgray: #9e9e9e;
+    --gray: #dadcdc;
+    --darkred: #B00020;
+    --orange: #d48c00;
+    --turquoise: #70efde;
+    --blue: #3c6aa3;
+}
+
+html, body {
+    font-family: 'Helvetica Regular', Helvetica;
+    font-size: 16px;
+    line-height: 20px;
+    height: 100%;
+    width: 100%;
+}
+
+#app {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.main {
+    flex: 1;
+}
+
+.top-row {
+    width: 100vw;
+    height: 6rem;
+    display: flex;
+    background: rgb(60,106,163);
+    background: linear-gradient(90deg, rgba(60,106,163,1) 0%, rgba(36,36,36,1) 100%);
+    padding: 0.5rem;
+}
+
+#topnavbar {
+    padding-right: 2rem;
+    z-index: 999;
+}
+
+.loading-bar {
+    width: auto;
+    height: 7px;
+    background-color: white;
+    overflow: hidden;
+    box-shadow: 0 1px 3px #000000;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    opacity: 0.6;
+    border-radius: 4px;
+}
+
+    .loading-bar::after {
+        content: '';
+        display: block;
+        width: auto;
+        height: 100%;
+        background-color: var(--blue);
+        animation: progressbar-slide 1s infinite;
+        animation-timing-function: ease-in-out;
+        min-width: 15rem;
+    }
+
+
+@keyframes progressbar-slide {
+    0% {
+        transform: translateX(-200px);
+    }
+
+    70% {
+        transform: translateX(500px);
+    }
+
+    100% {
+        transform: translateX(500px);
+    }
+}
+
