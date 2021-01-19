@@ -41,6 +41,10 @@ html, body {
     z-index: 999;
 }
 
+.btn-tbc{
+    background: orange;
+}
+
 .loading-bar {
     width: auto;
     height: 7px;

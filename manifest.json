@@ -1,6 +1,6 @@
 {
-  "name": "TribeDev-Business-Central",
-  "short_name": "TribeDev-Business-Central",
+  "name": "TribeDev Business Central",
+  "short_name": "TribeDev Business Central",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
