@@ -9,7 +9,7 @@
       "url": "awesome-app.png"
     },
     {
-      "hash": "sha256-k8ttQt8b3auf2TSFFS+FpMy1PeccST9J5ozTv8hxRMs=",
+      "hash": "sha256-E1bmpeAWmRF2aPNEyjO9ZJUhUAAIcPob8y2Q\/hK3qck=",
       "url": "css\/app.css"
     },
     {
@@ -21,7 +21,7 @@
       "url": "css\/bootstrap\/bootstrap.min.css.map"
     },
     {
-      "hash": "sha256-1tojzUTB9U0INJ9Z7S6iPkZIO4JbBZry+8ge\/L1vNnA=",
+      "hash": "sha256-mIUbTD9vVuby0LdPyKdyQvLOII9WixNnO3wHG3JKCZY=",
       "url": "css\/main.css"
     },
     {
@@ -61,7 +61,7 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
-      "hash": "sha256-Z7z9efEQJuhWcN5nOV\/e5fs122BDKMPsSRcmaP0MAC4=",
+      "hash": "sha256-ZQ3Ll9MM1bi5V2JmJktUsCVkbzOpc2KFRK8VYIO61HE=",
       "url": "css\/paper-kit.css"
     },
     {
@@ -69,7 +69,7 @@
       "url": "css\/paper-kit.min.css"
     },
     {
-      "hash": "sha256-03gmkotYvMLo6DMb28SBeR3dBqOwRanzY4TeWEQ1Yxc=",
+      "hash": "sha256-Pmfj6qojFzQyubfqINuojZdpSuEGtqDVVm8l9huXdMM=",
       "url": "css\/tbc.css"
     },
     {
@@ -109,6 +109,18 @@
       "url": "images\/home-image.jpg"
     },
     {
+      "hash": "sha256-6e0KkVWfDwdLYL66qgk1K3BwI+EZFGWUVtHv0ZqNgoQ=",
+      "url": "images\/loading.gif"
+    },
+    {
+      "hash": "sha256-geXEu8g\/PceP791TmLXNbotgiwCkW+hRauLptqUQNKU=",
+      "url": "images\/loading1.gif"
+    },
+    {
+      "hash": "sha256-6+GDgT3KkU2I+KeyZfoGtlILE8O0kVR62hTjs8XghJw=",
+      "url": "images\/loading2.gif"
+    },
+    {
       "hash": "sha256-n\/FG3Kc0NGpT3INezTAAFmIa3yVueEHQKiUvC6u+hA0=",
       "url": "images\/logo.png"
     },
@@ -125,7 +137,7 @@
       "url": "images\/user3.jpg"
     },
     {
-      "hash": "sha256-e6z\/ei85yuRP+apIKS3j5boEvKZxHrTQhhdvFwjRyMo=",
+      "hash": "sha256-c1mJOGBhrlN9SC5IrKe\/ullVqmojpn+Gt993D2OsuQs=",
       "url": "index.html"
     },
     {
@@ -965,7 +977,7 @@
       "url": "_framework\/TBC.Components.Shared.dll"
     },
     {
-      "hash": "sha256-CWABwJRAviVmKZcC4v\/3GNzXrHbN8tsGbDQ3ZbGCkYs=",
+      "hash": "sha256-v0kU0YAwyi3S2j3Ws6fSryGnnqQbKq+MKJCXtYrG3ss=",
       "url": "_framework\/TBC.ItemManager.dll"
     },
     {
@@ -973,7 +985,7 @@
       "url": "_framework\/TBC.Shared.dll"
     },
     {
-      "hash": "sha256-NIXUYt2M\/+MzXgrcCOLYW36m6M+1aRAEy9j0YIC7atw=",
+      "hash": "sha256-zDsF9PhDdQqwJBLEa+l4Aj79qE2jskLlYb7JvxJa0XI=",
       "url": "_framework\/TribeDev-Business-Central.dll"
     },
     {
@@ -1169,7 +1181,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-FZCLeOnr5cnDTTBjlWyxaEhzc+Z33SEqYDsKIJwMpho=",
+      "hash": "sha256-Kk11UbCsLJtlirI2TxLzQWT1NaLllGpJ+5CZ6eWk0BY=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1177,5 +1189,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "E7HhZr\/l"
+  "version": "KcMt1OcC"
 };

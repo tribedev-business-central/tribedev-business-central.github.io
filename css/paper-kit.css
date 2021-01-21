@@ -3025,7 +3025,7 @@ h3,
 .h3,
 h4,
 .h4 {
-  margin: 15px 0 0;
+  margin: 8px 0 0;
 }
 
 h1,
@@ -3066,8 +3066,8 @@ h6,
 }
 
 p {
-  font-size: 15px;
-  line-height: 1.5em;
+  font-size: 14px;
+  line-height: 1.4em;
   margin-bottom: 5px;
 }
 
@@ -5854,14 +5854,15 @@ License - nucleoapp.com/license/
 }
 
 .card {
-  border-radius: 12px;
-  box-shadow: 0 6px 10px -4px rgba(0, 0, 0, 0.15);
-  background-color: #FFFFFF;
-  color: #333333;
-  margin-bottom: 20px;
-  position: relative;
-  z-index: 1;
-  border: 0 none;
+    border-radius: 12px;
+    box-shadow: 0px 12px 19px -7px rgba(0, 0, 0, 0.3);
+    background-color: #FFFFFF;
+    color: #333333;
+    margin-bottom: 20px;
+    position: relative;
+    z-index: 1;
+    border: 1px solid #ff8100;
+    min-height:11.5rem;
 }
 
 .card:not(.card-plain):hover {
@@ -6049,7 +6050,7 @@ License - nucleoapp.com/license/
 }
 
 .card .header .card-category {
-  padding: 15px;
+  padding: 12px;
 }
 
 .card .card-body .card-footer {
@@ -6104,7 +6105,7 @@ License - nucleoapp.com/license/
 
 .card .card-category i,
 .card .label i {
-  font-size: 15px;
+  font-size: 14px;
 }
 
 .card>.card-title {
@@ -6125,9 +6126,9 @@ License - nucleoapp.com/license/
 }
 
 .card .card-text {
-  font-size: 15px;
+  font-size: 14px;
   color: #66615b;
-  padding-bottom: 15px;
+  padding-bottom: 12px;
 }
 
 .card h6 {
@@ -6136,7 +6137,7 @@ License - nucleoapp.com/license/
 }
 
 .card .card-footer {
-  padding: 15px;
+  padding: 12px;
   background: transparent;
   border-top: 0 none;
 }

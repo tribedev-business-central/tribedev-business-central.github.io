@@ -184,8 +184,12 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6,
 
 /* Footer sectiom */
 .footer-black {
-  background-color: #252422;
-  color: #DDDDDD; }
+    background-color: #252422;
+    color: #DDDDDD;
+    bottom: 0; 
+    width: 100vw;
+    height:8rem;
+}
 
 .aa-footer a.credit {
   color: inherit;
