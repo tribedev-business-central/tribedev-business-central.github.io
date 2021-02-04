@@ -1,6 +1,6 @@
 // Caution! Be sure you understand the caveats before publishing an application with
 // off-line support. See https://aka.ms/blazor-offline-considerations
-const CACHE_VERSION = 0.902;
+const CACHE_VERSION = 0.903;
 self.importScripts('./service-worker-assets.js');
 self.addEventListener('install', event => event.waitUntil(onInstall(event)));
 self.addEventListener('activate', event => event.waitUntil(onActivate(event)));
@@ -46,4 +46,4 @@ async function onFetch(event) {
 
     return cachedResponse || fetch(event.request);
 }
-/* Manifest version: 46E+ZzM+ */
+/* Manifest version: Jta/FosG */
