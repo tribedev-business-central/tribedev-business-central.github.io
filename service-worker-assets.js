@@ -865,7 +865,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
-      "hash": "sha256-oNqnyqd0X3p3fe9PO6s19d3wRgSCSNPZkxZ\/a0vhneg=",
+      "hash": "sha256-B2exocmPoXlOcc0ODWdQA686RDCk3XqgKnCSnb2lLSw=",
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
@@ -921,7 +921,7 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.dll"
     },
     {
-      "hash": "sha256-4VF+2PR61SLwRWSVwh+J5RtZpdR4v1iUFgvDxWPcEUU=",
+      "hash": "sha256-5RCr0VH\/ouVZvpwOc+CrOKqZRkVdvGLeLln87jMb828=",
       "url": "_framework\/Microsoft.Graph.dll"
     },
     {
@@ -945,7 +945,7 @@
       "url": "_framework\/Microsoft.JSInterop.dll"
     },
     {
-      "hash": "sha256-LkNprID5vhUSogSnLuIsAzYQL4dtKGSGQSGrlWJ+Kos=",
+      "hash": "sha256-UwgpwjCHmUhISv5eMMiYhjnJhBAudE0gLHyB4B\/kLpQ=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
@@ -977,19 +977,19 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-yrMliinMd+UfNDCsAsKUJ6i+YU0wGhb1kd3GKrU2GnU=",
+      "hash": "sha256-u\/jdwC5H5CQciCzhvIcfGIXOsOOyAHSkZLZ9+MrRCcI=",
       "url": "_framework\/TBC.Components.Shared.dll"
     },
     {
-      "hash": "sha256-opAu7lLPYXkhPuyJiWx0g4sZcU0vdFTjTo6+tQ0Vj4M=",
+      "hash": "sha256-Eg2WYbWUuCN\/lH69e6jCUFWjQJ32rCyqrfuifNdImGQ=",
       "url": "_framework\/TBC.ItemManager.dll"
     },
     {
-      "hash": "sha256-h9L++EoIEgi3hhlQtfAsAJWq+yT6ofW2WjMFjsvvyDU=",
+      "hash": "sha256-QPZN4r0\/l+WAhA4klHvI+7LEtWBbbmTFDl\/pRE6xw\/k=",
       "url": "_framework\/TBC.Shared.dll"
     },
     {
-      "hash": "sha256-ZKSIfbY5ywJujgW39Cur4ji\/\/PbbJH5cQW\/Qg01rWm8=",
+      "hash": "sha256-A\/fUi9WkpnRAQXbzjlopWZtxpxkrYs4wIZCRwYdKLHI=",
       "url": "_framework\/TribeDev-Business-Central.dll"
     },
     {
@@ -1201,7 +1201,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-wpe1K+0yEjw9d04N66gilx6xZ3PKZvZ10So5gZL6Ny8=",
+      "hash": "sha256-bcPAVaWaDoJugRlLLhcRPs9ckHyDcfYpgcDSDxRD4lg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1209,5 +1209,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "DlZRypwI"
+  "version": "AqhMikda"
 };
