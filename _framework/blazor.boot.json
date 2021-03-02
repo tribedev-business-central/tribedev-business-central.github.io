@@ -9,7 +9,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Binaron.Serializer.dll": "sha256-5v9SunGnRQ4BKs6VNY++72PmO5xu16dAfILJvNLMVlY=",
+      "Binaron.Serializer.dll": "sha256-kRaFTiRlMmOBRilolLoftqAhwyckBBlCZtq9RXFZd9A=",
       "BlazorAnimate.dll": "sha256-udePU3dIbDiwMFaRy21mVsMNqp8JTQpNxUfirOPnsag=",
       "Blazored.LocalStorage.dll": "sha256-+\/IJo9wLK9sTvL8ee9W9w8S1Gkj8rsf\/6yob0uUFAaM=",
       "Dahomey.Json.dll": "sha256-H8cqTfQb\/BveAI12mY75kyFirL2UZYdQyhm4L9J25uQ=",
@@ -47,9 +47,9 @@
       "System.IdentityModel.Tokens.Jwt.dll": "sha256-WZNZPB5b2Z85V6NS3NJGl7DDCcN\/PhQPY374XdEdM2c=",
       "System.IO.Pipelines.dll": "sha256-o\/PdJLBGKSgIYSBLq6l+GUStgsQ7K0l+eLIHhkVU1o0=",
       "TBC.Components.Shared.dll": "sha256-u\/jdwC5H5CQciCzhvIcfGIXOsOOyAHSkZLZ9+MrRCcI=",
-      "TBC.ItemManager.dll": "sha256-SAC9sCxbGihhVivewSWl\/MQPGUXs6kwNHjaSYEL8ZS0=",
-      "TBC.Shared.dll": "sha256-Zkwr9ITa\/nMN4ahoXF\/cKaxNjhfvPf7JmMSlKy0aokI=",
-      "TribeDev-Business-Central.dll": "sha256-oAwxz0yLaUfxMVzHQ8THmfYJPAd07L683WlWdY0AWCE=",
+      "TBC.ItemManager.dll": "sha256-7zmxHYmHi8Il\/k1QgtuR\/BiYRwbxcDh2dqfQ+i1Q09o=",
+      "TBC.Shared.dll": "sha256-Fxroe28TWWpIhpSxBhsllaM\/16HVqp0M6Xfwf5UEtPo=",
+      "TribeDev-Business-Central.dll": "sha256-UV2fsw6hZ4ZWivZ6+Y0zvuebNIiAf6+h+hA4EHg1OYM=",
       "Microsoft.CSharp.dll": "sha256-+lAJbkEY+psOn1XufZM1HiA7GAALVPRvpSInNNFaRS8=",
       "Microsoft.Win32.Primitives.dll": "sha256-TPL+iVl5nQpbOR02NpcMEnc7Lg1rwEXJfQaoV+\/FJeQ=",
       "System.Collections.Concurrent.dll": "sha256-aC8hxMcu34l\/f79gO8dBKNbn5aYLfYFgvcSFyTdhaRk=",
