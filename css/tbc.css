@@ -27,6 +27,11 @@ html, body {
     flex: 1;
 }
 
+.btn-icon{
+	font-size:26px;
+	cursor:pointer;
+}
+
 .top-row {
     width: 100vw;
     height: 6rem;
